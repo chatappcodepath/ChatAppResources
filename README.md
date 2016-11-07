@@ -6,9 +6,9 @@ The application will have extensions similar to iMessages, but they will be inst
 ### Auto Pilot Mode
 Also when you are in single chat mode. You can double tap on the message TextArea and one of our bots will communicate with the user.
 ### Following will be stretch goals
--> Add as many extensions as you can.
--> Add WebRTC based A/V chat for users.
--> Have ability for scheduled Messages.
+* Add as many extensions as you can.
+* Add WebRTC based A/V chat for users.
+* Have ability for scheduled Messages.
 
 Please look at the user stories for more details.
 
